@@ -1,3 +1,14 @@
+## This is Frontend Code Editor
+
+Built using HTML, CSS, JavaScript, ReactJs.
+
+With Added Features:
+Copy Buttton: Copies HTML, CSS or JS code to clipboard.
+Save Button: Save the code, so that it remains even after refresh.
+Lock/ Unlock Button: Locks or Unlocks the code editor.
+
+## Project Deployment Link: https://rp-frontend-code-editor.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
