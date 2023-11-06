@@ -1,4 +1,4 @@
-## This is Frontend Code Editor
+## This is a Frontend Code Editor
 
 Built using HTML, CSS, JavaScript, ReactJs.
 
